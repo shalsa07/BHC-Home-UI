@@ -1,0 +1,17 @@
+{
+"companyName": "SixDotsStudios",
+"productName": "BHC Web Port",
+"productVersion": "1.0",
+"dataUrl": "Unit 70.data.unityweb",
+"wasmCodeUrl": "Unit 70.wasm",
+"wasmFrameworkUrl": "Unit 70.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Unit 70.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
